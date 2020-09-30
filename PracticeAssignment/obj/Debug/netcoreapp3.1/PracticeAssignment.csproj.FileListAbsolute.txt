@@ -1,0 +1,15 @@
+C:\Users\drson\OneDrive\Desktop\PracticeAssignment\PracticeAssignment\obj\Debug\netcoreapp3.1\PracticeAssignment.csprojAssemblyReference.cache
+C:\Users\drson\OneDrive\Desktop\PracticeAssignment\PracticeAssignment\obj\Debug\netcoreapp3.1\PracticeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\drson\OneDrive\Desktop\PracticeAssignment\PracticeAssignment\obj\Debug\netcoreapp3.1\PracticeAssignment.AssemblyInfoInputs.cache
+C:\Users\drson\OneDrive\Desktop\PracticeAssignment\PracticeAssignment\obj\Debug\netcoreapp3.1\PracticeAssignment.AssemblyInfo.cs
+C:\Users\drson\OneDrive\Desktop\PracticeAssignment\PracticeAssignment\bin\Debug\netcoreapp3.1\PracticeAssignment.exe
+C:\Users\drson\OneDrive\Desktop\PracticeAssignment\PracticeAssignment\bin\Debug\netcoreapp3.1\PracticeAssignment.deps.json
+C:\Users\drson\OneDrive\Desktop\PracticeAssignment\PracticeAssignment\bin\Debug\netcoreapp3.1\PracticeAssignment.runtimeconfig.json
+C:\Users\drson\OneDrive\Desktop\PracticeAssignment\PracticeAssignment\bin\Debug\netcoreapp3.1\PracticeAssignment.runtimeconfig.dev.json
+C:\Users\drson\OneDrive\Desktop\PracticeAssignment\PracticeAssignment\bin\Debug\netcoreapp3.1\PracticeAssignment.dll
+C:\Users\drson\OneDrive\Desktop\PracticeAssignment\PracticeAssignment\bin\Debug\netcoreapp3.1\PracticeAssignment.pdb
+C:\Users\drson\OneDrive\Desktop\PracticeAssignment\PracticeAssignment\bin\Debug\netcoreapp3.1\DryIoc.dll
+C:\Users\drson\OneDrive\Desktop\PracticeAssignment\PracticeAssignment\obj\Debug\netcoreapp3.1\PracticeAssignment.csproj.CopyComplete
+C:\Users\drson\OneDrive\Desktop\PracticeAssignment\PracticeAssignment\obj\Debug\netcoreapp3.1\PracticeAssignment.dll
+C:\Users\drson\OneDrive\Desktop\PracticeAssignment\PracticeAssignment\obj\Debug\netcoreapp3.1\PracticeAssignment.pdb
+C:\Users\drson\OneDrive\Desktop\PracticeAssignment\PracticeAssignment\obj\Debug\netcoreapp3.1\PracticeAssignment.genruntimeconfig.cache
